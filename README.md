@@ -2,8 +2,7 @@
 Code and specs for CS-Embed's contribution to SemEval-2020 Task 9.
 
 * tweet_ids.zip : contains the tweet-id's of the tweets used to create the code-switched embeddings
-* cs_kw.txt: Spanish and Spanglish Keywords used to extract tweets from twitter
-* tweet_collect.py: code used to collect tweets from twitter using Tweepy and cs_kw.txt as keyword list
+* tweet_collect.py: code used to collect tweets from twitter using Tweepy and keyword list
 * cs_model.py: code used to train bilstm model
 * cs_embeddings.tar.gz: word2vec code-switched embeddings with dimension 100. These are the main contribution for SemEval2020: Task 9
 
