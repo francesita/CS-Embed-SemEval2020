@@ -1,13 +1,13 @@
-# CS-Embed-SemEval2020
+## CS-Embed-SemEval2020
 Code and specs for CS-Embed's entry for SemEval-2020 Task-9
 
 # Code-Switch BiLSTM Model Summary
 _________________________________________________________________
-|Layer (type)                   | Output Shape        | Param No.|   
-_________________________________________________________________
-|embedding (Embedding)          |(None, 12, 100)      |21592000  |
-_________________________________________________________________
-|bidirectional (Bidirectional)  | (None, 12, 256)     |234496    |
+|Layer (type)|Output Shape|Param No.|   
+|-----------------------|-------------------------|--------------|
+|embedding (Embedding)|(None, 12, 100)|21592000|
+|-----------------------|-------------------------|--------------|
+|bidirectional (Bidirectional)|(None, 12, 256)|234496|
 _________________________________________________________________
 |bidirectional_1 (Bidirectional)| (None, 256)         |394240    |
 _________________________________________________________________
