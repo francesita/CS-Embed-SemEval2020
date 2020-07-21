@@ -1,6 +1,5 @@
-# CS-Embed-SemEval2020
-Code and specs for CS-Embed's entry for SemEval-2020 Task-9
-
+# CS-Embed at SemEval-2020 Task 9: The effectiveness of code-switched word embeddings for sentiment analysis
+Code and specs for CS-Embed's contribution to SemEval-2020 Task 9.
 
 * tweet_ids.zip : contains the tweet-id's of the tweets used to create the code-switched embeddings
 * cs_kw.txt: Spanish and Spanglish Keywords used to extract tweets from twitter
@@ -35,4 +34,14 @@ _________________________________________________________________
 
 
 If any code or models are used please cite:
+
+@InProceedings{Leon2020,
+  author    = {Frances A. Laureano De Leon and Florimond Guéniat and Harish Tayyar Madabushi},
+  title     = {CS-Embed at SemEval-2020 Task 9: The effectiveness of code-switched word embeddings for sentiment analysis},
+  booktitle = {Proceedings of the 14th International Workshop on Semantic Evaluation ({S}em{E}val-2020)},
+  year      = {2020},
+  address   = {Barcelona, Spain},
+  month     = {December},
+  publisher = {Association for Computational Linguistics},
+}
 
