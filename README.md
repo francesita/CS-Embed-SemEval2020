@@ -1,7 +1,7 @@
-## CS-Embed-SemEval2020
+# CS-Embed-SemEval2020
 Code and specs for CS-Embed's entry for SemEval-2020 Task-9
 
-# Code-Switch BiLSTM Model Summary
+### Code-Switch BiLSTM Model Summary
 _________________________________________________________________
 |Layer (type)|Output Shape|Param No.|   
 |-----------------------|-------------------------|--------------|
